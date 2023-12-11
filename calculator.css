@@ -1,0 +1,29 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+body{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: rgb(64, 62, 62);
+  height: 100vh;
+}
+#form{
+  padding:  50px;
+  
+  
+  
+  background-color: rgb(185, 236, 220);
+}
+#num1,#num2,#btn,#res{
+  display: block;
+  margin-bottom: 10px;
+}
+#btn{
+  width: 30px;
+  margin-left: 70px;
+}
+
+
